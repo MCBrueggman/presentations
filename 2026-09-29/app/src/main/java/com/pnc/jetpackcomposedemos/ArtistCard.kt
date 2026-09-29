@@ -1,5 +1,6 @@
 package com.pnc.jetpackcomposedemos
 
+import android.util.Log
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.padding
@@ -17,7 +18,7 @@ fun ArtistCard(
     artist: Artist,
     onClick: () -> Unit
 ) {
-
+    Log.d("ArtistCard", "Recomposing ArtistCard for ${artist.name}")
     Card(
         modifier = Modifier
             .fillMaxWidth(),

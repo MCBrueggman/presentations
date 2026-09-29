@@ -11,6 +11,7 @@ composeBom = "2026.02.01"
 coilVersion = "3.6.3"
 navigationCompose = "2.10.2"
 kotlinxSerializationJson = "1.7.3"
+recyclerview = "1.4.0"
 
 [libraries]
 androidx-core-ktx = { group = "androidx.core", name = "core-ktx", version.ref = "coreKtx" }
@@ -32,6 +33,8 @@ coil-loader = { group = "io.coil-kt.coil3", name="coil-network-okhttp", version.
 androidx-compose-viewbinding = { group = "androidx.compose.ui", name = "ui-viewbinding"}
 androidx-navigation-compose = { group = "androidx.navigation", name="navigation-compose", version.ref="navigationCompose"}
 kotlinx-serialization-json = { group = "org.jetbrains.kotlinx", name = "kotlinx-serialization-json", version.ref = "kotlinxSerializationJson"}
+androidx-material-icons = { group = "androidx.compose.material", name = "material-icons-extended"}
+androidx-recyclerview = { group = "androidx.recyclerview", name = "recyclerview", version.ref = "recyclerview" }
 
 [bundles]
 coil = [ "coil-compose", "coil-loader" ]
