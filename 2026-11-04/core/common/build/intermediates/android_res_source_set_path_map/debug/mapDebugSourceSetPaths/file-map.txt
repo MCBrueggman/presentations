@@ -1,0 +1,9 @@
+com.pnc.jetpackcomposedemos.core.common-pngs-0 D:\BootcampMobile\Android\JetpackComposeDemos\core\common\build\generated\res\pngs\debug
+com.pnc.jetpackcomposedemos.core.common-updated_navigation_xml-1 D:\BootcampMobile\Android\JetpackComposeDemos\core\common\build\generated\updated_navigation_xml\debug
+com.pnc.jetpackcomposedemos.core.common-mergeDebugResources-2 D:\BootcampMobile\Android\JetpackComposeDemos\core\common\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.pnc.jetpackcomposedemos.core.common-mergeDebugResources-3 D:\BootcampMobile\Android\JetpackComposeDemos\core\common\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.pnc.jetpackcomposedemos.core.common-debug-4 D:\BootcampMobile\Android\JetpackComposeDemos\core\common\build\intermediates\merged_res\debug\mergeDebugResources
+com.pnc.jetpackcomposedemos.core.common-debug-5 D:\BootcampMobile\Android\JetpackComposeDemos\core\common\build\intermediates\packaged_res\debug\packageDebugResources
+com.pnc.jetpackcomposedemos.core.common-debug-6 D:\BootcampMobile\Android\JetpackComposeDemos\core\common\src\debug\res
+com.pnc.jetpackcomposedemos.core.common-main-7 D:\BootcampMobile\Android\JetpackComposeDemos\core\common\src\main\res
+gradleHome-0 C:\Users\DrewFierst\.gradle
